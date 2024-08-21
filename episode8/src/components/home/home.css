@@ -1,0 +1,47 @@
+.search{
+    padding: 5px;
+    width: 45%;
+}
+.restaurant{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .shimmer-card {
+    width: 200px;
+    height: 400px;
+    background-color: #d0c8c8;
+    margin: 20px;
+    border-radius: 11px;
+  }
+
+  input.searchText {
+    margin-right: 10px;
+    padding: 12px;
+    border-radius: 15px;
+    border: 2px solid gray;
+}
+.filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.login{
+  cursor: pointer;
+  width: 24%;
+  height: 34px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 3px 4px 2px silver;
+  font-size: 18px;
+}

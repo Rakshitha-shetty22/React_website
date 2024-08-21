@@ -1,0 +1,11 @@
+.detailsContainer {
+    width: 22%;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 20px;
+    margin-top: 65px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 7px 4px gray;
+}
